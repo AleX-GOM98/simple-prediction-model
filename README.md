@@ -15,5 +15,5 @@ This project demonstrates a simple prediction model using linear regression with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-prediction-model.git
+   git clone https://github.com/AleX-GOM98/simple-prediction-model.git
    cd simple-prediction-model
